@@ -1,0 +1,80 @@
+/*!
+ * Start Bootstrap - Blog Home (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	background-color:#309018;
+}
+
+footer {
+	width:80%%;
+	padding-top:1em;
+	padding-left:10%;
+	padding-right:10%;
+
+}
+
+div.border{
+	border: 1px solid #309018;
+	padding-top:1em;
+	padding-left:2em;
+	padding-bottom:1em;
+	border-radius:5px;
+
+}
+.border img
+{
+	padding-right:2em;
+}
+.well img {
+    width: 100%;
+    height: auto;
+}
+
+
+.container{
+	background-color: white;
+	width:80%;
+	border-radius:5px;
+}
+
+.container-nav{
+	background-color:black;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1170px;
+}
+
+.col-md-4{
+	padding-top: 1.4em;
+	
+}
+
+.crest{
+	padding-left:auto;
+	padding-right:auto;
+	padding-bottom:1em;
+}
+
+.google-maps {
+        position: relative;
+        padding-bottom: 75%; 
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+
+
+
